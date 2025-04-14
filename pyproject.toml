@@ -1,0 +1,9 @@
+[project]
+name = "test-flask-security"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flask-security>=5.6.1",
+]
